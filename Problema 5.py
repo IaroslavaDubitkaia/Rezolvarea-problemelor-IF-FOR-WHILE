@@ -1,0 +1,25 @@
+a=int(input('Anul '))
+if (a%12==0):
+    print("anul dragonului")
+if (a%12==1):
+    print("anul sarpelui")
+if (a%12==2):
+    print("anul calului")
+if (a%12==3):
+    print("anul oaiei")
+if (a%12==4):
+    print("anul maimutei")
+if (a%12==5):
+    print("anul cocosului")
+if (a%12==6):
+    print("anul cainelui")
+if (a%12==7):
+    print("anul porcului")
+if (a%12==8):
+    print("anul sobolanului")
+if (a%12==9):
+    print("anul boului")
+if (a%12==10):
+    print("anul tigrului")
+if (a%12==11):
+    print("anul iepurelui")
